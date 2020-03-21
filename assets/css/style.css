@@ -4,13 +4,13 @@ body {
     background-image: url("webb-dark.png");
 }
 
-/*header*/
+
 
 .header {
     width: 45%;
     margin-left: 27%;
     text-align: center;
-    background-color: #00e5ff;
+    background-color: green;
     border: 8px solid;
     border-top-color: #00d8ff;
     border-right-color: #00d8ff;
@@ -30,7 +30,7 @@ body {
 .random-number {
     width: 15%;
     text-align: center;
-    background-color: #00e5ff;
+    background-color: green;
     border: 8px solid;
     border-top-color: #00d8ff;
     border-right-color: #00d8ff;
@@ -93,7 +93,7 @@ body {
     float: left;
     position: relative;
     text-align: center;
-    background-color: #00e5ff;
+    background-color: green;
     border: 8px solid;
     border-top-color: #00d8ff;
     border-right-color: #00d8ff;
@@ -110,7 +110,7 @@ body {
     position: relative;
     text-align: center;
     width: 26%;
-    background-color: #00e5ff;
+    background-color: green;
     border: 8px solid;
     border-top-color: #00d8ff;
     border-right-color: #00d8ff;
@@ -127,7 +127,7 @@ body {
     padding-bottom: 4px;
     margin: 33% 0 0 36%;
     text-align: center;
-    background-color: #00e5ff;
+    background-color: green;
     border: 8px solid;
     border-top-color: #00d8ff;
     border-right-color: #00d8ff;
